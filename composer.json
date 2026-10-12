@@ -1,6 +1,7 @@
 {
     "name": "r-portal/t-rule",
     "description": "Common contracts for the template rule",
+    "license": "MIT",
     "type": "library",
     "autoload": {
         "psr-4": {
