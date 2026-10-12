@@ -1,0 +1,19 @@
+{
+    "name": "r-portal/t-rule",
+    "description": "Common contracts for the template rule",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "RPortal\\TRule\\": "src/"            
+        }
+    },
+    "authors": [
+        {
+            "name": "rochev yakov",
+            "email": "gitarar98@yanex.ru"
+        }
+    ],
+    "require": {
+        "php": "^7.2 || ^8.0"
+    }
+}
