@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace RPortal\TRule\Contracts\Aggregates;
+namespace RPortal\TRule\Aggregates;
 
 use IteratorAggregate;
 use RPortal\TRule\Resources\RuleContract;
