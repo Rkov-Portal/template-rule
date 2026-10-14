@@ -8,6 +8,9 @@ use IteratorAggregate;
 use RPortal\TRule\Resources\RuleContract;
 use Traversable;
 
+/**
+ * @deprecated
+ */
 interface RuleAggregate extends IteratorAggregate
 {
     /**
